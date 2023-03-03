@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://guluLB.github.io</id>
+    <title>咕噜灵波</title>
+    <updated>2023-03-03T00:34:24.202Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://guluLB.github.io"/>
+    <link rel="self" href="https://guluLB.github.io/atom.xml"/>
+    <subtitle>=-=</subtitle>
+    <logo>https://guluLB.github.io/images/avatar.png</logo>
+    <icon>https://guluLB.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 咕噜灵波</rights>
+    <entry>
+        <title type="html"><![CDATA[测速文章]]></title>
+        <id>https://guluLB.github.io/post/ce-su-wen-zhang/</id>
+        <link href="https://guluLB.github.io/post/ce-su-wen-zhang/">
+        </link>
+        <updated>2023-01-25T03:44:42.000Z</updated>
+        <content type="html"><![CDATA[<p>测试ing</p>
+]]></content>
+    </entry>
+</feed>
